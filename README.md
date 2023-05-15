@@ -1,2 +1,2 @@
 # Test
-My First test project
+My first test project
