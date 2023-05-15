@@ -1,4 +1,4 @@
 # Test
 
-My first test project for the git operations's studys
+My first test project for the git operations's study!
 
