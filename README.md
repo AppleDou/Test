@@ -1,3 +1,3 @@
 # Test
-My first test project for the git!
+My first test project for the git operations!
 
