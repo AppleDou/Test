@@ -1,0 +1,20 @@
+hello
+
+kubectl get pods -n <namespace>
+
+kubectl get namespaces
+
+kubectl get pv
+
+kubectl get pvc -n <namespace>
+
+kubectl get deployment.apps
+
+kubectl get statble.apps
+
+kubernetes resources
+
+node
+pod
+pv
+pvc
